@@ -12,6 +12,8 @@ Generate SEO-optimized Markdown pages with AI in seconds!
 
 ⚡ Usage: 
 ./new-post.ps1 -Title "My Post" -Prompt "Write about..." -ServerUser root -ServerIP 1.2.3.4
+
+
 Example:
 ``` 
 .\new-post.ps1 `
